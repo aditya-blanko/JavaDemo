@@ -1,0 +1,378 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SquareRoot",
+            "request": "launch",
+            "mainClass": "Searching.SquareRoot",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "LowerBound",
+            "request": "launch",
+            "mainClass": "Searching.LowerBound",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Searching.BinarySearch",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Searching.LinearSearch",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSumOptimizedApproach",
+            "request": "launch",
+            "mainClass": "TwoDArray.PrefixSumOptimizedApproach",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSumBruteApproach",
+            "request": "launch",
+            "mainClass": "TwoDArray.PrefixSumBruteApproach",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arith",
+            "request": "launch",
+            "mainClass": "Arith",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Astring",
+            "request": "launch",
+            "mainClass": "Astring",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Concatenation",
+            "request": "launch",
+            "mainClass": "Concatenation",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedForLoop",
+            "request": "launch",
+            "mainClass": "EnhancedForLoop",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "IncDec",
+            "request": "launch",
+            "mainClass": "IncDec",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance2",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance3",
+            "request": "launch",
+            "mainClass": "Inheritance.Inheritance3",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Launch2",
+            "request": "launch",
+            "mainClass": "Interface.Launch2",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "launch3",
+            "request": "launch",
+            "mainClass": "Interface.launch3",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Launch1",
+            "request": "launch",
+            "mainClass": "Launch1",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Launch2(1)",
+            "request": "launch",
+            "mainClass": "Launch2",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Launch3",
+            "request": "launch",
+            "mainClass": "Launch3",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Length",
+            "request": "launch",
+            "mainClass": "Length",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Logical",
+            "request": "launch",
+            "mainClass": "Logical",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop",
+            "request": "launch",
+            "mainClass": "NestedLoop",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Object",
+            "request": "launch",
+            "mainClass": "Object",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateNumber",
+            "request": "launch",
+            "mainClass": "OneDArray.DuplicateNumber",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "OneDArray.MissingNumber",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicArray",
+            "request": "launch",
+            "mainClass": "OneDArray.PalindromicArray",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ReversalOfArray",
+            "request": "launch",
+            "mainClass": "OneDArray.ReversalOfArray",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Pattern9",
+            "request": "launch",
+            "mainClass": "Pattern9",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Private",
+            "request": "launch",
+            "mainClass": "Private",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "Relational",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ScannerClass",
+            "request": "launch",
+            "mainClass": "ScannerClass",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "StringsComparison",
+            "request": "launch",
+            "mainClass": "StringsComparison",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Ternary",
+            "request": "launch",
+            "mainClass": "Ternary",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "RotationOfMatrix",
+            "request": "launch",
+            "mainClass": "TwoDArray.RotationOfMatrix",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensionalArray",
+            "request": "launch",
+            "mainClass": "TwoDimensionalArray",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ThisMethod",
+            "request": "launch",
+            "mainClass": "constructorr.ThisMethod",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JavaDemo_328b550b"
+        }
+    ]
+}
