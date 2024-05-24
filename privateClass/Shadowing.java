@@ -1,4 +1,4 @@
-package Privatee;
+package privateClass;
 
 
 // Problem of shadowing occurs when the name of arguments passing and the name of variable is same 
