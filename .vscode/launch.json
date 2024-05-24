@@ -6,6 +6,230 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SlidingWindowMax",
+            "request": "launch",
+            "mainClass": "Queue.SlidingWindowMax",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "DequeImplementation",
+            "request": "launch",
+            "mainClass": "Queue.DequeImplementation",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingQueue",
+            "request": "launch",
+            "mainClass": "Queue.StackUsingQueue",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingStack",
+            "request": "launch",
+            "mainClass": "Queue.QueueUsingStack",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "SortUsingHashMap",
+            "request": "launch",
+            "mainClass": "Sorting.SortUsingHashMap",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "QueueImplementation",
+            "request": "launch",
+            "mainClass": "Queue.QueueImplementation",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "Stack.ValidParentheses",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "StackImplementation",
+            "request": "launch",
+            "mainClass": "Stack.StackImplementation",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeatChar",
+            "request": "launch",
+            "mainClass": "HashMap.FirstNonRepeatChar",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "HashMap.TwoSum",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "TypesOfMap",
+            "request": "launch",
+            "mainClass": "HashMap.TypesOfMap",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "HashmapFunctions",
+            "request": "launch",
+            "mainClass": "HashMap.HashmapFunctions",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "LinkedList.CycleDetection",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "MiddleOfLL",
+            "request": "launch",
+            "mainClass": "LinkedList.MiddleOfLL",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLL",
+            "request": "launch",
+            "mainClass": "LinkedList.ReverseLL",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionDeletion",
+            "request": "launch",
+            "mainClass": "LinkedList.InsertionDeletion",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "LinkedList.Insertion",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionAtEnd",
+            "request": "launch",
+            "mainClass": "LinkedList.InsertionAtEnd",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "StairCase",
+            "request": "launch",
+            "mainClass": "Recursion.StairCase",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Privatee.Shadowing",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Shadowing",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfNumber2",
+            "request": "launch",
+            "mainClass": "Recursion.PowerOfNumber2",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfNumber1",
+            "request": "launch",
+            "mainClass": "Recursion.PowerOfNumber1",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchh",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearchh",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "PrintingMultiplesOfNumber",
+            "request": "launch",
+            "mainClass": "Recursion.PrintingMultiplesOfNumber",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "AlternateSumSeries",
+            "request": "launch",
+            "mainClass": "Recursion.AlternateSumSeries",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfDigits",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibonacci",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
             "name": "SquareRoot",
             "request": "launch",
             "mainClass": "Searching.SquareRoot",

@@ -1,4 +1,4 @@
-// package Private;
+package Privatee;
 
 
 // Problem of shadowing occurs when the name of arguments passing and the name of variable is same 
@@ -20,7 +20,7 @@ class student {
     public void show() {
         System.out.println("My name is " + name + " and I'm " + age + " years old");
     }
-}
+};
 
 public class Shadowing {
     public static void main(String[] args) {
