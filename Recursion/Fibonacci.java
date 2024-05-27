@@ -29,5 +29,6 @@ public class Fibonacci {
         }
         // int result = FindingFibonacci(num);
         // System.out.println("the final result is " + result);
+        sc.close();
     }
 }
