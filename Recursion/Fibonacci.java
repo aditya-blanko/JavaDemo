@@ -23,7 +23,11 @@ public class Fibonacci {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number in the fibonacci series is ");
         int num = sc.nextInt();
-        int result = FindingFibonacci(num);
-        System.out.println("the final result is " + result);
+        for(int i=0;i<num;i++)
+        {
+            System.out.println(FindingFibonacci(i));
+        }
+        // int result = FindingFibonacci(num);
+        // System.out.println("the final result is " + result);
     }
 }

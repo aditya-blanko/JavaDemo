@@ -28,6 +28,7 @@ public class HashmapFunctions {
         hashmap.remove(5);
         System.out.println("Updated hashmap is "+ hashmap);
         System.out.println();
+        
 
         // Functionality of entryset function
         System.out.println("Hashmap is ");

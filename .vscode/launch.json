@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollectionClass",
+            "request": "launch",
+            "mainClass": "CollectionFramewoks.CollectionClass",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ArraysMethod",
+            "request": "launch",
+            "mainClass": "CollectionFramewoks.ArraysMethod",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListImplementation",
+            "request": "launch",
+            "mainClass": "CollectionFramewoks.ArrayListImplementation",
+            "projectName": "JavaDemo_328b550b"
+        },
+        {
+            "type": "java",
             "name": "SlidingWindowMax",
             "request": "launch",
             "mainClass": "Queue.SlidingWindowMax",
